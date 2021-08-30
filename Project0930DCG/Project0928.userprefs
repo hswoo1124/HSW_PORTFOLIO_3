@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\BeePosi.cs">
+    <Files>
+      <File FileName="Assets\Script\Enemy_Movement.cs" Line="50" Column="40" />
+      <File FileName="Assets\Script\health.cs" Line="95" Column="18" />
+      <File FileName="Assets\Script\BeePosi.cs" Line="8" Column="38" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\ButterFly.cs">
+    <Files>
+      <File FileName="Assets\Script\Enemy_Movement.cs" Line="11" Column="27" />
+      <File FileName="Assets\Script\Enemy_Spawn.cs" Line="29" Column="4" />
+      <File FileName="Assets\Script\ButterFly.cs" Line="39" Column="108" />
+      <File FileName="Assets\Script\health.cs" Line="95" Column="14" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
